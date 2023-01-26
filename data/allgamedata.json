@@ -1,0 +1,221 @@
+{
+	"activePlayer": {
+		"abilities": {
+			"E": {
+				"abilityLevel": 0,
+				"displayName": "Royal Maelstrom",
+				"id": "BelvethE",
+				"rawDescription": "GeneratedTip_Spell_BelvethE_Description",
+				"rawDisplayName": "GeneratedTip_Spell_BelvethE_DisplayName"
+			},
+			"Passive": {
+				"displayName": "Death in Lavender ",
+				"id": "BelvethPassive",
+				"rawDescription": "GeneratedTip_Passive_BelvethPassive_Description",
+				"rawDisplayName": "GeneratedTip_Passive_BelvethPassive_DisplayName"
+			},
+			"Q": {
+				"abilityLevel": 0,
+				"displayName": "Void Surge",
+				"id": "BelvethQ",
+				"rawDescription": "GeneratedTip_Spell_BelvethQ_Description",
+				"rawDisplayName": "GeneratedTip_Spell_BelvethQ_DisplayName"
+			},
+			"R": {
+				"abilityLevel": 0,
+				"displayName": "Endless Banquet",
+				"id": "BelvethR",
+				"rawDescription": "GeneratedTip_Spell_BelvethR_Description",
+				"rawDisplayName": "GeneratedTip_Spell_BelvethR_DisplayName"
+			},
+			"W": {
+				"abilityLevel": 0,
+				"displayName": "Above and Below",
+				"id": "BelvethW",
+				"rawDescription": "GeneratedTip_Spell_BelvethW_Description",
+				"rawDisplayName": "GeneratedTip_Spell_BelvethW_DisplayName"
+			}
+		},
+		"championStats": {
+			"abilityHaste": 0.0,
+			"abilityPower": 0.0,
+			"armor": 38.0,
+			"armorPenetrationFlat": 0.0,
+			"armorPenetrationPercent": 1.0,
+			"attackDamage": 70.80000305175781,
+			"attackRange": 175.0,
+			"attackSpeed": 0.8500000238418579,
+			"bonusArmorPenetrationPercent": 1.0,
+			"bonusMagicPenetrationPercent": 1.0,
+			"critChance": 0.0,
+			"critDamage": 175.0,
+			"currentHealth": 610.0,
+			"healShieldPower": 0.0,
+			"healthRegenRate": 1.2000000476837159,
+			"lifeSteal": 0.0,
+			"magicLethality": 0.0,
+			"magicPenetrationFlat": 0.0,
+			"magicPenetrationPercent": 1.0,
+			"magicResist": 32.0,
+			"maxHealth": 610.0,
+			"moveSpeed": 697.5,
+			"omnivamp": 0.0,
+			"physicalLethality": 0.0,
+			"physicalVamp": 0.0,
+			"resourceMax": 60.0,
+			"resourceRegenRate": 0.0,
+			"resourceType": "OTHER",
+			"resourceValue": 0.0,
+			"spellVamp": 0.0,
+			"tenacity": 0.0
+		},
+		"currentGold": 500.0,
+		"fullRunes": {
+			"generalRunes": [
+				{
+					"displayName": "Lethal Tempo",
+					"id": 8008,
+					"rawDescription": "perk_tooltip_LethalTempo",
+					"rawDisplayName": "perk_displayname_LethalTempo"
+				},
+				{
+					"displayName": "Triumph",
+					"id": 9111,
+					"rawDescription": "perk_tooltip_9111",
+					"rawDisplayName": "perk_displayname_9111"
+				},
+				{
+					"displayName": "Legend: Bloodline",
+					"id": 9103,
+					"rawDescription": "perk_tooltip_9103",
+					"rawDisplayName": "perk_displayname_9103"
+				},
+				{
+					"displayName": "Last Stand",
+					"id": 8299,
+					"rawDescription": "perk_tooltip_8234",
+					"rawDisplayName": "perk_displayname_8234"
+				},
+				{
+					"displayName": "Biscuit Delivery",
+					"id": 8345,
+					"rawDescription": "perk_tooltip_BiscuitDelivery",
+					"rawDisplayName": "perk_displayname_BiscuitDelivery"
+				},
+				{
+					"displayName": "Cosmic Insight",
+					"id": 8347,
+					"rawDescription": "perk_tooltip_CosmicInsight",
+					"rawDisplayName": "perk_displayname_CosmicInsight"
+				}
+			],
+			"keystone": {
+				"displayName": "Lethal Tempo",
+				"id": 8008,
+				"rawDescription": "perk_tooltip_LethalTempo",
+				"rawDisplayName": "perk_displayname_LethalTempo"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Inspiration",
+				"id": 8300,
+				"rawDescription": "perkstyle_tooltip_7203",
+				"rawDisplayName": "perkstyle_displayname_7203"
+			},
+			"statRunes": [
+				{
+					"id": 5008,
+					"rawDescription": "perk_tooltip_StatModAdaptive"
+				},
+				{
+					"id": 5008,
+					"rawDescription": "perk_tooltip_StatModAdaptive"
+				},
+				{
+					"id": 5002,
+					"rawDescription": "perk_tooltip_StatModArmor"
+				}
+			]
+		},
+		"level": 1,
+		"summonerName": "Z3US",
+		"teamRelativeColors": true
+	},
+	"allPlayers": [
+		{
+			"championName": "Bel'Veth",
+			"isBot": false,
+			"isDead": false,
+			"items": [],
+			"level": 1,
+			"position": "",
+			"rawChampionName": "game_character_displayname_Belveth",
+			"rawSkinName": "game_character_skin_displayname_Belveth_9",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Lethal Tempo",
+					"id": 8008,
+					"rawDescription": "perk_tooltip_LethalTempo",
+					"rawDisplayName": "perk_displayname_LethalTempo"
+				},
+				"primaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Inspiration",
+					"id": 8300,
+					"rawDescription": "perkstyle_tooltip_7203",
+					"rawDisplayName": "perkstyle_displayname_7203"
+				}
+			},
+			"scores": {
+				"assists": 0,
+				"creepScore": 0,
+				"deaths": 0,
+				"kills": 0,
+				"wardScore": 0.0
+			},
+			"skinID": 9,
+			"skinName": "Battle Boss Bel'Veth",
+			"summonerName": "Z3US",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Teleport",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerTeleport_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerTeleport_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		}
+	],
+	"events": {
+		"Events": [
+			{
+				"EventID": 0,
+				"EventName": "GameStart",
+				"EventTime": 0.013919999822974205
+			}
+		]
+	},
+	"gameData": {
+		"gameMode": "CLASSIC",
+		"gameTime": 42.22148895263672,
+		"mapName": "Map11",
+		"mapNumber": 11,
+		"mapTerrain": "Default"
+	}
+}
