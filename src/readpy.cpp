@@ -7,5 +7,11 @@
 #include <string>
 #include <vector>
 
+using namespace std;
+
+void readpy(std::string path) {
+    string cmd = "python " + path;
+    system(cmd.c_str());
+}
 
 
